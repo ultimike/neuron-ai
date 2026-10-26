@@ -60,7 +60,7 @@ Follow the Neuron channels to stay up to date:
 - E-Book: https://www.amazon.it/dp/B0F1YX8KJB
 - Linkedin: https://www.linkedin.com/company/neuron-ai-php-framework
 - X: https://x.com/neuronai_php
-- Instagram: https://www.instagram.com/neuronai_p
+- Instagram: https://www.instagram.com/neuronai_php_adk
 
 ## Start With One Prompt
 
